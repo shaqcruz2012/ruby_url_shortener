@@ -1,25 +1,27 @@
-# README
+#URL Shortener
+This is a URL shortening service implemented using Ruby on Rails.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Getting Started
+These instructions will guide you on how to get the application up and running on your local machine for development and testing purposes.
 
-Things you may want to cover:
+###Prerequisites
+Make sure you have the following software installed:
+(check dependencies shaq)
+- Ruby (version 3.0.2p107)
+- Ruby on Rails (version 7.0.4.3)
 
-* Ruby version
+###Installing
+Follow these steps to install and set up the project:
 
-* System dependencies
+- Clone the repository:`git clone https://github.com/shaqcruz2012/ruby_url_shortener.git`
+- Change into the project directory:`cd ruby_url_shortener`
+- Install the required dependencies:`bundle install`
+- Running the Tests`bundle exec rspec`
 
-* Configuration
 
-* Database creation
+Acknowledgments
+CodePlatoon Tango Training
+OpenSource and Youtube tutorials
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+If you have any further questions or need assistance with anything else, please let me know!
